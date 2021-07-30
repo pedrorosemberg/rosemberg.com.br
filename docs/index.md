@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# PEDRO ROSEMBERG MARKETING E TECNOLOGIA SA
+### Criando suas estratégias com base na tecnologia
 
-You can use the [editor on GitHub](https://github.com/pedrorosemberg/rosemberg.com.br/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+#### Principais Atividades:
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pedrorosemberg/rosemberg.com.br/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ - Design gráfico;
+ - Marketing digital;
+ - Desenvolvimento de projetos;
+ - Criação de softwares;
+ - Social media;
+ - Estratégias de crescimento;
+ - Business Intelligence e Analytics;
+ - UX/UI Design e Writer;
+ - Inside and Extern Sales;
+ - Customer Success and Experience;
+ - Desenvolvimento de sites e prjetos web.
+```
+---
+#### Cases de Sucesso:
+```
+ - Faculdade CEDIN;
+ - Neonmaker;
+ - Growstage Search;
+ - Revista Divina Comédia;
+ - Clube Desportivo Mineiro;
+ - Barceminas Football 7;
+```
+---
+#### Hubs:
+```
+ - Growstage SA;
+ - Neonmaker Logística, Comunicação e Tecnologia ME;
+ - Rosemberg SA;
+ - Einblick Digital;
+ - Cloudcast BPM;
+ - RDC Magzne;
+ - Pedro Rosemberg SA;
+ - Highest Hub.
+```
+Copyright © 2021 PEDRO ROSEMBERG MARKETING E TECNOLOGIA SA. All rights reserved.
